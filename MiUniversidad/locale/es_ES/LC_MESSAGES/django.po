@@ -1,0 +1,2 @@
+msgid "Log in | Django site admin"
+msgstr "ho,a soy valu"
